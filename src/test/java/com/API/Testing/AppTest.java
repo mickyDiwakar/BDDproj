@@ -18,7 +18,11 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+
         int i=0;
+
+        int k=0;
+
     }
 
     /**
