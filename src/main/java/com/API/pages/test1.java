@@ -6,6 +6,7 @@ public class test1 {
 		for(int i=0;i<10;i++) {
 			System.out.println(i);
 		}
+		int k=0;
 	}
 	
 }
